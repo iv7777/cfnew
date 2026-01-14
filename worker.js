@@ -1365,7 +1365,7 @@
         const defaultHttpsPorts = [443];
         const defaultHttpPorts = disableNonTLS ? [] : [80];
         const links = [];
-        const wsPath = '/?ed=2048';
+        const wsPath = '/?ed=2560';
         const proto = atob('dmxlc3M=');
 
         list.forEach(item => {
